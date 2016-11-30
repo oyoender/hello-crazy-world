@@ -1,0 +1,28 @@
+The column headings are as follows:
+"Line (W#)" is the line in units of wavenumber
+S/N is line signal to noise
+BS distinguishes different possible P/Q/R sets
+ODR is "Original Data Row" helps you find the line in raw data
+J Val is the g.s. J value of the line
+Diff is 2B for P/R or 2delB for Q branches
+P/Q/R tells you what type each branch set is -1=P, 0=Q, 1=R
+gsK is the ground state K value
+Set label is a label for the stitchtog output
+Output file for delK_0_gsK_5
+Line (W#)	S/N	BS	ODR	J Val	Diff	P/Q/R	gsK	Set Label	
+New Set
+523.823295114	51.0	54.0	196.0	5.0	0.0661	1.0	5.0	5.0	
+523.889391841	39.0	54.0	201.0	6.0	0.0661	1.0	5.0	5.0	
+524.021243056	50.0	54.0	232.0	8.0	0.0659	1.0	5.0	5.0	
+524.080657159	25.0	54.0	241.0	9.0	0.0638	1.0	5.0	5.0	
+524.142107004	32.0	54.0	248.0	10.0	0.0632	1.0	5.0	5.0	
+524.200749907	47.0	54.0	257.0	11.0	0.0623	1.0	5.0	5.0	
+523.401321857	43.0	9.0	129.0	5.0	0.0119	0.0	5.0	5.0	
+523.413175057	89.0	9.0	132.0	6.0	0.0119	0.0	5.0	5.0	
+523.466933915	55.0	9.0	140.0	10.0	0.0111	0.0	5.0	5.0	
+523.495791879	73.0	9.0	144.0	11.0	0.0129	0.0	5.0	5.0	
+523.517408834	73.0	9.0	146.0	12.0	0.0128	0.0	5.0	5.0	
+523.531980915	105.0	9.0	150.0	13.0	0.0119	0.0	5.0	5.0	
+523.024717987	13.0	14.0	114.0	6.0	0.0686	-1.0	5.0	5.0	
+522.956101851	37.0	14.0	107.0	7.0	0.0686	-1.0	5.0	5.0	
+522.484014925	63.0	14.0	96.0	14.0	0.0674	-1.0	5.0	5.0	
